@@ -12,5 +12,6 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 
-I have made a monday CRM - clone 
+I have made a mini CRM Model,
+
 try it out!
